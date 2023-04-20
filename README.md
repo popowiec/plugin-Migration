@@ -1,3 +1,5 @@
+Please do not use this repo, use official https://github.com/matomo-org/plugin-Migration
+===========================================================================================================
 # Matomo Migration Plugin
 
 [![Build Status](https://github.com/matomo-org/plugin-Migration/actions/workflows/matomo-tests.yml/badge.svg?branch=4.x-dev)](https://github.com/matomo-org/plugin-Migration/actions/workflows/matomo-tests.yml)
